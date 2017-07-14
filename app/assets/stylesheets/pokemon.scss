@@ -4,9 +4,9 @@
 
 .main-flex-container {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: space-around;
-  align-items: flex-end;
+  align-items: flex-start;
 
 }
 

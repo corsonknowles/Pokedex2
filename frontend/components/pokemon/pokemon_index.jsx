@@ -15,8 +15,8 @@ export class PokemonIndex extends React.Component {
     return (
 
       <div>
-        <section class="main-flex-container">
-        <section class='pokedex'>
+        <section className="main-flex-container">
+        <section className='pokedex'>
         <ul >
 
           {this.props.pokemon.map((el, i) => (
